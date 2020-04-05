@@ -1,0 +1,3 @@
+here for the purpose we are using an embeded database by adding dependencies for
+H2 database
+and also use JDBC Api dependencies
